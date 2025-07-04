@@ -2,7 +2,7 @@ using System;
 
 namespace MRPixel.EasyGameDevTools.Runtime.Extensions
 {
-    public static class ActionExtension
+    public static class ActionExtensions
     {
         /// <summary>
         /// Safely invokes an Action if it is not null.
